@@ -11,7 +11,7 @@ import subprocess
 toaddrs  = 'darshanjadav97@gmail.com'
 fromaddr = 'uwu.jpeg@gmail.com'
 username = 'uwu.jpeg@gmail.com'
-password = 'google_97'
+password = 'X'
 
 br = mechanize.Browser()
 br.open("http://result.saurashtrauniversity.edu/Default1.aspx")
