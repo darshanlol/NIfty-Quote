@@ -1,3 +1,6 @@
+#this script might not work anymore
+
+
 import requests
 import html5lib
 page = requests.get("http://www.moneycontrol.com/indian-indices/nifty-50-9.html")
